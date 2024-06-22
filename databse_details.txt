@@ -1,0 +1,11 @@
+{
+    "email":"khank@gmail.com",
+    "password":"asdfg1234",
+    "phone_number":"9760589790"
+}
+
+{
+    "email":"meranaam@gmail.com",
+    "password":"pssword1234",
+    "phone_number":"9760589790"
+}

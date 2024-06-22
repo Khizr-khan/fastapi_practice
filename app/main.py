@@ -24,7 +24,7 @@ app.add_middleware(
 # print(settings.access_token_expire_minutes)
 
 
-# models.Base.metadata.create_all(bind = engine) We doesn't need this statement now after we are using alembic
+models.Base.metadata.create_all(bind = engine) #We doesn't need this statement now after we are using alembic
 
 
 
